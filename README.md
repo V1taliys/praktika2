@@ -16,6 +16,6 @@
 ![ScreenShot](Screenshot1.png)![ScreenShot](Screenshot3.png)
 
 2. Часть. Вывод программы:
-![ScreenShot](Screenshot4.png)
+![ScreenShot](Screenshot5.png)
 
 
